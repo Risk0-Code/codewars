@@ -29,7 +29,7 @@ The middle character(s) of the word represented as a string.
 [Link of the kata](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
 ## Difficulty
-<img src="../../template/assets/8kyu.png" width='50px'>
+<img src="../../template/assets/7kyu.png" width='50px'>
 
 ## Language
 
